@@ -7,3 +7,6 @@
 ###### User dependency management
 ###### Over 130k open source packages
 ###### Install Client and Server dependencies
+
+![Alt text](/img/npm-stats.png)
+
