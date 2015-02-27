@@ -1,0 +1,8 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Javascript? On my server?",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": false
+  }
+}
